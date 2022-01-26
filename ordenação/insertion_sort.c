@@ -15,7 +15,7 @@ void insertion_sort(int vetor[], int n) {
 }
 
 int main() {
-  int vetor[] = {1, 2, 3, 4, 5};
+  int vetor[] = {5, 4, 3, 2, 1};
 
   insertion_sort(vetor, 5);
   

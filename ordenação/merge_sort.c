@@ -57,7 +57,7 @@ void merge_sort(int vetor[], int inicio, int fim) {
 }
 
 int main() {
-  int vetor[] = {1, 2, 3, 4, 5};
+  int vetor[] = {5, 4, 3, 2, 1};
 
   merge_sort(vetor, 0, 5);
   
